@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="attention">Attention</string>
+    <string name="back_button">Back</string>
+    <string name="delete">Delete</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no_expense_description">There are currently no Expenses\nTap + to add.</string>
+    <string name="edit_expense_title">Edit Expense</string>
+    <string name="expense">Expense</string>
+    <string name="expense_detail_title">Expense Details</string>
+    <string name="expense_entry_title">Add Expense</string>
+    <string name="expense_name_req">Expense Name*</string>
+    <string name="expense_price_req">Expense Price*</string>
+    <string name="no">No</string>
+    <string name="price">Price</string>
+    <string name="quantity_in_stock">Quantity</string>
+    <string name="in_stock">%d purchased</string>
+    <string name="quantity_req">Quantity purchased*</string>
+    <string name="save_action">Save</string>
+    <string name="sell">Sell</string>
+    <string name="yes">Yes</string>
+    <string name="required_fields">*required fields</string>
+</resources>
